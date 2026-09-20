@@ -4,9 +4,7 @@
 
 ## 공개 주소
 
-GitHub Pages 주소는 저장소와 계정에 따라 다음 형식으로 발행됩니다.
-
-`https://<GitHub사용자명>.github.io/2026-ai-training-dashboard/`
+GitHub Pages: [https://ryukoyat-cmyk.github.io/2026-ai-training-dashboard/](https://ryukoyat-cmyk.github.io/2026-ai-training-dashboard/)
 
 ## 파일 안내
 
